@@ -1,7 +1,27 @@
 # Assets
-Assets used for repositories. This repository contains icons, code snippets. 
+Assets used for repositories. This repository mostly contains icons but may also contain useful code snippets in later dates. 
 
-## Rubie Icons (rubie_*)
-![4096x4096](/rubie_4096.png)
-![1024x1024](/rubie_1024.png)
-![512x512](/rubie_512.png)
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Rubie Icons](#rubie-icons-rubie_)
+  - [512x512](#512x512)
+  - [1024x1024](#1024x1024)
+  - [4096x4096](#4096x4096)
+- [RubieDrive](#rubiedrive)
+
+## [Rubie Icons (rubie_*)](https://github.com/RubieLabs)
+Every image is scaled down (in Markdown, not in the PNGs). Also, the 4096x4096 sometimes won't load in the Markdown.
+
+### 512x512
+<img src="rubie_512.png" alt="512x512" width="200" height="200"/>
+
+### 1024x1024
+<img src="rubie_1024.png" alt="1024x1024" width="300" height="300"/>
+
+### 4096x4096
+<img src="rubie_4096.png" alt="4096x4096" width="400" height="400"/>
+
+## [RubieDrive](https://github.com/RubieLabs/RubieDrive)
+The icon is only in one resolution
+
+<img src="rubiedrive.png" alt="1024x1024" width="300" height="300"/>
