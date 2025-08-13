@@ -1,5 +1,5 @@
 # Assets
-Assets used for RubieLabs' repositories. This repository mainly contains icons but may also include useful code snippets at later dates.
+Assets used for RubieLabs' repositories. This repository mainly contains icons but may also include useful code snippets at later dates. The icons are free to use, but they cannot be claimed as your own. Proper credit to RubieLabs is appreciated when using them.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
